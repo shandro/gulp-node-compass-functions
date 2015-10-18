@@ -1,0 +1,25 @@
+### Project
+node_modules/
+bower_components/
+*.log
+dist/
+
+### Sass
+.sass-cache
+*.css.map
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# JetBrains IDE's files
+.idea
+
+# Temporary files
+tmp
+.tmp

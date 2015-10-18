@@ -1,0 +1,19 @@
+output_style = :compressed
+preferred_syntax = :sass
+relative_assets = true
+line_comments = false
+sourcemap = false
+disable_warnings = false
+
+project_path = 'test/dist/'
+http_path = 'test/dist/'
+css_dir = 'css'
+css_path = 'dist/css'
+#css_filename = 'dist/css/style.css'
+images_dir = 'images'
+images_path = 'dist/images'
+http_images_path = 'dist/images'
+fonts_dir = 'css/fonts'
+fonts_path = 'dist/css/fonts'
+http_fonts_dir = 'css/fonts'
+http_fonts_path = 'css/fonts'

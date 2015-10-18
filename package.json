@@ -1,0 +1,33 @@
+{
+  "name": "gulp-node-compass-functions",
+  "version": "0.0.1",
+  "description": "Compass functions support for libasass.",
+  "license": "MIT",
+  "repository": "/shandro/gulp-node-compass-functions",
+  "main": "index.js",
+  "author": {
+    "name": "Pavlo Shandro",
+    "email": "pavlo@shandro.cv.ua",
+    "url": "http://shandro.cv.ua"
+  },
+  "engines": {
+    "node": ">=0.12.0"
+  },
+  "keywords": [
+    "gulpplugin",
+    "node",
+    "sass",
+    "compass",
+    "functions"
+  ],
+  "dependencies": {
+    "async": "^1.4.0",
+    "deasync": "^0.1.0",
+    "image-size": "^0.3.5",
+    "merge-descriptors": "^1.0.0",
+    "node-sass": "^3.2.0",
+    "object-assign": "^3.0.0",
+    "q": "^1.4.1",
+    "sass-true": "^2.0.2"
+  }
+}
